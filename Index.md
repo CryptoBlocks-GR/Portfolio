@@ -4,9 +4,9 @@ description:
 order: 2
 ---
 
-![](../Images/Covers/CryptoBlocks.jpeg)
-
 # CryptoBlocks
+
+![](../Images/Covers/CryptoBlocks.jpeg)
 
 - [**Blog**](https://www.cryptoblocks.gr/)
 - [**Twitter**](https://twitter.com/CryptoBlocks_GR)
