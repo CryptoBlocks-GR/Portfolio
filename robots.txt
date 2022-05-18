@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://portfolio.cryptoblocks.gr/sitemap.xml.gz
