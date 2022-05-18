@@ -1,6 +1,6 @@
 input: .
 cache.busting.strategy: none
-url: portfolio.cryptoblocks.gr
+url: http://portfolio.cryptoblocks.gr
 cname: false
 favicon: Images/Brand/Logo.png
 
