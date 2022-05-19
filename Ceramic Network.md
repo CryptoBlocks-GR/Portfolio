@@ -12,7 +12,7 @@ _Ceramic is a decentralized, open source platform for creating, hosting, and sha
 
 ---
 
-## 🇬🇷 Translation & Social Media Management
+## 🇬🇷 Translation
 
 - [**Blog**](https://ceramicnetworkgr.substack.com/)
 
