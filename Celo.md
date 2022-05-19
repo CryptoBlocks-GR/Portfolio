@@ -6,16 +6,16 @@ order: 12
 
 ![](../Images/Covers/Aave.png)
 
-_Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets._
+_Celo is global payments infrastructure that makes financial tools accessible to anyone with a mobile phone_
 
-[**Official Website**](https://aave.com/)
+[**Official Website**](https://celo.org/)
 
 ---
 
 ## 🇬🇷 Translation & Social Media Management
 
-- [**Blog**](https://www.aave.gr/)
-- [**Twitter**](https://twitter.com/AaveGR)
+- [**Documentation**]() Soon...
+- [**Tutorial**]() Soon...
 
 ---
 
