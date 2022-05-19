@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/VarenX.jpg"
 description: Cross-chain swapping dApp, powered by RenVM
-order: 10
+order: 8
 ---
 
 ![](../../Images/Covers/VarenX.jpg)
