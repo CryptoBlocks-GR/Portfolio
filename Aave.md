@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Aave.png"
 description: Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.
-order: 12
+order: 13
 ---
 
 ![](../Images/Covers/Aave.png)
