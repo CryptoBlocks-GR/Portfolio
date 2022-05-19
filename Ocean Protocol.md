@@ -12,11 +12,9 @@ _Tools for the Web3 Data Economy_
 
 ---
 
-## 🇬🇷 Translation & Social Media Management
+## 🇬🇷 Translation 
 
-- [**Blog**](https://www.oceanprotocol.gr/)
 - [**Subtitles**](https://vimeo.com/oceanprotocolgr)
-- [**Twitter**](https://twitter.com/oceanprotocolgr)
 
 ## 🇺🇲️ Transcription
 
