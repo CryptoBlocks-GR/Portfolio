@@ -4,7 +4,7 @@ description: Cross-chain swapping dApp, powered by RenVM
 order: 8
 ---
 
-![](../../Images/Covers/VarenX.jpg)
+![](../../Images/Covers/VarenX.jpeg)
 
 _Cross-chain swapping dApp, powered by RenVM._
 
