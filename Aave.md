@@ -14,8 +14,7 @@ _Aave is an open source and non-custodial liquidity protocol for earning interes
 
 ## 🇬🇷 Translation & Social Media Management
 
-- [**Blog**](https://www.aave.gr/)
-- [**Twitter**](https://twitter.com/AaveGR)
+- [**App**]() Soon...
 
 ---
 
