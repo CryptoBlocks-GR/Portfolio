@@ -1,6 +1,6 @@
 ---
 icon: "Images/Logos/CryptoBlocks.png"
-description: 
+description: CryptoBlocks
 order: 16
 ---
 
@@ -12,7 +12,7 @@ order: 16
 - [**Twitter**](https://twitter.com/CryptoBlocks_GR)
 - [**Discord**](https://discord.gg/PKRsKSA4wz)
 - [**YouTube**](https://www.youtube.com/channel/UCFrXYCuoRpMBfzXud9W3nfA)
-- [GitHub](https://github.com/CryptoBlocks-GR)
+- [**GitHub**](https://github.com/CryptoBlocks-GR)
 
 ---
 
