@@ -4,7 +4,7 @@ description: Olympus is building a community-owned decentralized financial infra
 order: 6
 ---
 
-![](../../Images/Covers/Olympus-DAO.png)
+![](../Images/Covers/Olympus-DAO.png)
 
 _Olympus is building a community-owned decentralized financial infrastructure to bring more stability and transparency for the world._
 
@@ -12,7 +12,7 @@ _Olympus is building a community-owned decentralized financial infrastructure to
 
 ---
 
-## 🇬🇷 Greek Translation
+## 🇬🇷 Translation
 
 - [**Medium**](https://olympusdao-gr.medium.com/)
 - [**Agora Medium**](https://medium.com/@OlympusAgoraGR)

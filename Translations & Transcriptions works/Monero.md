@@ -1,10 +1,10 @@
 ---
 icon: "Images/Logos/Monero.png"
 description: Private, decentralized cryptocurrency that keeps your finances confidential and secure.
-order: 9
+order: 10
 ---
 
-![](../../Images/Covers/Monero.png)
+![](../Images/Covers/Monero.png)
 
 _Private, decentralized cryptocurrency that keeps your finances confidential and secure._
 
@@ -12,12 +12,12 @@ _Private, decentralized cryptocurrency that keeps your finances confidential and
 
 ---
 
-## 🇬🇷 Greek Translation
+## 🇬🇷 Translation
 
 - [**Website**](https://www.getmonero.org/el/index.html)
 - [**GUI Wallet**](https://www.getmonero.org/el/downloads/#gui)
-- **Subtitle**: [Monero: Sound Money, Safe Mode](https://www.youtube.com/watch?v=XXUl7Ug674k&t=11s)
-- **Subtitle**: [Monero Means Money](https://www.youtube.com/watch?v=aFHHNg4vBvI&t=69s)
+- **Subtitle**: [Monero: Sound Money, Safe Mode](https://youtu.be/aC9Uu5BUxII)
+- **Subtitle**: [Monero Means Money](https://www.youtube.com/watch?v=8quGD9W7B2I)
 
 ### Weblate Profiles
 
