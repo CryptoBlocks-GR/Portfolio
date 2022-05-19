@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Manta-Network.png"
 description: We're building an interoperable privacy layer for the Polkadot ecosystem.
-order: 3
+order: 2
 ---
 
 ![](../Images/Covers/Manta-Network.png)
