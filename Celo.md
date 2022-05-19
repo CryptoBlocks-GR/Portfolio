@@ -1,10 +1,10 @@
 ---
-icon: "Images/Logos/Celo.png"
+icon: "Images/Logos/Celo.jpg"
 description: Celo is global payments infrastructure that makes financial tools accessible to anyone with a mobile phone
 order: 12
 ---
 
-![](../Images/Covers/Celo.png)
+![](../Images/Covers/Celo.jpeg)
 
 _Celo is global payments infrastructure that makes financial tools accessible to anyone with a mobile phone_
 
