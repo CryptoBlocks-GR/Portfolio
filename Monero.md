@@ -16,8 +16,8 @@ _Private, decentralized cryptocurrency that keeps your finances confidential and
 
 - [**Website**](https://www.getmonero.org/el/index.html)
 - [**GUI Wallet**](https://www.getmonero.org/el/downloads/#gui)
-- **Subtitle**: [Monero: Sound Money, Safe Mode](https://youtu.be/aC9Uu5BUxII)
-- **Subtitle**: [Monero Means Money](https://www.youtube.com/watch?v=8quGD9W7B2I)
+- **Subtitle**: [Monero: Sound Money, Safe Mode](https://www.youtube.com/watch?v=XXUl7Ug674k)
+- **Subtitle**: [Monero Means Money](https://www.youtube.com/watch?v=aFHHNg4vBvI)
 
 ### Weblate Profiles
 
