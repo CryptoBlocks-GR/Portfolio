@@ -1,5 +1,5 @@
 ---
-icon: "Images/Logos/CryptoBlocks.jpeg"
+icon: "Images/Logos/CryptoBlocks.png"
 description: 
 order: 16
 ---
