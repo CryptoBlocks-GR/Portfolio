@@ -1,10 +1,10 @@
 ---
-icon: "Images/Logos/Aave.png"
-description: Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.
+icon: "Images/Logos/Celo.png"
+description: Celo is global payments infrastructure that makes financial tools accessible to anyone with a mobile phone
 order: 12
 ---
 
-![](../Images/Covers/Aave.png)
+![](../Images/Covers/Celo.png)
 
 _Celo is global payments infrastructure that makes financial tools accessible to anyone with a mobile phone_
 
